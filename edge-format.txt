@@ -1,0 +1,10 @@
+Name (screen name)
+SourceUuid (twitter ID)
+TargetUuid  (twitter ID)
+
+Timestamp (perhaps available from ..)
+
+Starttime (first interaction?)
+Endtime (last interaction?)
+
+Uuid (edge ID – not necessary?)
